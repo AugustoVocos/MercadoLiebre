@@ -1,0 +1,44 @@
+header {
+    background-color: #EAC926;
+}
+
+body {
+    background-color: #ebebeb;
+}
+
+.row {
+    margin: 0%;
+    padding: 0%;
+}
+
+.descuento {
+    color: #39b54a;
+    padding-left: 2%;
+}
+
+.precio {
+    font-size: 1.8em;
+}
+
+.card {
+    margin: 5%; /*no me toma el de la derecha, ver bien el tamaño de la section*/
+}
+
+/* === COLORES ===
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+
+
+=== TIPOGRAFÍAS ===
+Familia: 'Roboto'
+Versiones: 300, 400, 700
+
+
+=== TAMAÑOS TIPOGRÁFICOS ===
+Cuerpos de texto: 15px
+Titulares: 24px
+*/
